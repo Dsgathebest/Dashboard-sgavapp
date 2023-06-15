@@ -1,0 +1,19 @@
+{
+    "name": "apolm01-10/dashboard-sgavapp",
+    "description": "dashboard",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "App\\": "./clases",
+            "Models\\": "./models",
+            "Controllers\\": "./controllers"
+        }
+    },
+    "authors": [
+        {
+            "name": "Dsgathebest",
+            "email": "gomezabrildaniel1234@gmail.com"
+        }
+    ],
+    "require": {}
+}
